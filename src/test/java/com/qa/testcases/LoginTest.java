@@ -20,4 +20,9 @@ public class LoginTest {
 	{
 		System.out.println("Hello3");
 	}
+	@Test
+	public void test5()
+	{
+		System.out.println("Hello3");
+	}
 }
